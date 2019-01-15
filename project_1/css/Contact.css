@@ -8,6 +8,41 @@
 .a{
   height: 500px;
 }
+#header-top{
+  height: auto;
+  line-height: 2.2;
+  background:#ebebeb ;
+}
+.contact-header-top-left{
+  margin-left: 160px;
+  background:none ;
+}
+.contact-header-top-left  span{
+  background: none;
+  font-size: 16px;
+  text-shadow: 0 0 1px black;
+}
+.contact-header-top-left span i{
+  color: black;
+  font-size:16px;
+}
+.contact-header-top-right{
+  text-decoration: none;
+  float: right;
+  right: 160px;
+  background: none;
+  line-height: 3;
+}
+.contact-header-top-right >span a{
+  text-decoration:none;
+  background: none;
+  color: black;
+  font-size: 16px;
+  text-shadow: 0 0 1px black;
+}
+.contact-header-top-right >span{
+  background: none;
+}
 #header{
   height: auto;
   overflow: hidden;
